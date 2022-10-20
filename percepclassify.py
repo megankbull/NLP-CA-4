@@ -1,8 +1,8 @@
 # python percepclassify.py /path/to/model /path/to/input
-import numpy as np 
 import sys 
-import string
 import json 
+import string
+import numpy as np 
 
 SAMPLES = []
 WORD_SET = None
